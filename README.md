@@ -13,3 +13,4 @@ Location Name (i.e. Axial Base)<br />
 Directory <br />
 Export Directory<br />
 
+Exported Excel file shows date and depth at which the sound occurs at. Note: Data is shifted up by 2m 
